@@ -11,9 +11,9 @@ comments: false
 
 * [Reading]
 * [ProblemSolving]
-* [Making A **difference** ]
-* [Learning about human mind]
-* [Almost/any/field/of/sports]
-* [And/u/know,*Having fun!*]
+* [Swimming]
+* [Chess]
+* [WebSurfing]
+* [And you know just*Having fun!*]
 
 

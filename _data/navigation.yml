@@ -10,10 +10,10 @@ main:
     url: /friends/
   - title: "Links"
     url: /links/
-  - title: "Hobbies"
-    url: /hobbies/  
-  - title: "Gallery"
-    url: /gallery/
+  - title: "Interests"
+    url: /interests/  
+  # - title: "Gallery"
+  #   url: /gallery/
   - title: "Blog"
     url: /blog/
   # - title: "About"
