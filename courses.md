@@ -8,11 +8,11 @@ modified: 9-14-2019
 comments: false
 ---
 
-<!-- - |              |  **current**                      |
+- |              |  **current**                      |
 |----|------|------------------------------------|  
 |2021|Fall  | **<a href="">Computer Programming Fudamentals</a>**        |
 |----|------|------------------------------------|
-|2021|Fall  | **<a href='>Computer Lab</a>** | -->
+|2021|Fall  | **<a href='>Computer Lab</a>** |
 <!-- - |    |    | **current**                                                             |
 |----|----|-------------------------------------------------------------------------------|
 |2021|Fall| **Computer Programming Fudamentals** |
