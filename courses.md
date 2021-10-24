@@ -8,7 +8,7 @@ modified: 9-14-2019
 comments: false
 ---
 
- - |              |  **current**                      |
+  |              |  **current**                      |
 |----|------|------------------------------------|  
 |2021|Fall  | **<a href="">Computer Programming Fudamentals</a>**        |
 |----|------|------------------------------------|

@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
+<!-- * [Favorite Author](http://myfavoritauthor.com)
 * [Places I want to visit](http://iwanttovisit.com)
 * [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [My university](http://myuniversity.com) -->
 
