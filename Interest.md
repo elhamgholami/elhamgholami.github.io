@@ -13,7 +13,7 @@ comments: false
 * ProblemSolving
 * Almost any field of sports
 * WebSurfing
-* Learning about human mind
+* Learning new things
 * Movies , series ...
 .
 .
