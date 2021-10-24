@@ -14,7 +14,7 @@ comments: true
 * [Shadi Alizargarzade](https://ShadiZargar.github.io)
 * [Ayda Najafi](https://AidaNajafi.github.io)
 * [Zahra Alizade](https://zahra121281.github.io) 
-* [Azin Hashemabadi](https://Azinhashemabadi.githup.io)
+* [Azin Hashemabadi](https://Azinhashemabadi.github.io)
 
 
 

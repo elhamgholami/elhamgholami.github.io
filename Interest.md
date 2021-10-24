@@ -11,13 +11,14 @@ comments: false
 
 * Reading
 * ProblemSolving
-* Almost any field of sports
+* Sports
+* Game (almost any kind)
 * WebSurfing
 * Learning new things
 * Movies , series ...
-.
-.
-.
+..
+..
+..
 And you know, *Having fun!*
 
 
