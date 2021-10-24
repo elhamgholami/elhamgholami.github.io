@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "Dark blue sky" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Elham Gholami"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I study CE in IUST...
+  bio              : I study CE at **IUST*.
   location         : "Babol"
   email            : Elham_gholami@comp.iust.ac.ir
   twitter: 
