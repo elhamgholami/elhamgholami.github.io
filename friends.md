@@ -8,10 +8,13 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### Friends
+* Masoome Ghafarri (https://MasoomehGhaffari.github.io)
+* Mahya Cheraghi ()
+* Shadi Alizargarzade(ShadiZargar.github.io)
+* Ayda Najafi
+* Zahra Alizade 
+* Azin Hashemabadi
 
 
 
