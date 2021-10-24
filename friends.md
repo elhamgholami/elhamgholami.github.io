@@ -9,12 +9,12 @@ comments: true
 ---
 
 ### Friends
-* [Masoome Ghafarri](MasoomehGhaffari.github.io)
-* [Mahya Cheraghi](mahyacheraghi.github.io)
-* [Shadi Alizargarzade](ShadiZargar.github.io)
-* [Ayda Najafi](AidaNajafi.github.io)
-* [Zahra Alizade](zahra121281.github.io) 
-* [Azin Hashemabadi]((Azinhashemabadi.githup.io))
+* [Masoome Ghafarri](https://MasoomehGhaffari.github.io)
+* [Mahya Cheraghi](https://mahyacheraghi.github.io)
+* [Shadi Alizargarzade](https://ShadiZargar.github.io)
+* [Ayda Najafi](https://AidaNajafi.github.io)
+* [Zahra Alizade](https://zahra121281.github.io) 
+* [Azin Hashemabadi](https://Azinhashemabadi.githup.io)
 
 
 
