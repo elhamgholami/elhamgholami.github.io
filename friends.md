@@ -9,7 +9,7 @@ comments: true
 ---
 
 ### Friends
-* [معصومه غفاری](https://MasoomehGhaffari.github.io)
+* [Maasoome Ghaffari](https://MasoomehGhaffari.github.io)
 * [Mahya Cheraghi](https://mahyacheraghi.github.io)
 * [Shadi Alizargarzade](https://ShadiZargar.github.io)
 * [Ayda Najafi](https://AidaNajafi.github.io)
