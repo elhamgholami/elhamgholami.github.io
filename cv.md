@@ -7,9 +7,9 @@ tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
+- Nothing yet ...😀
 
-
-|    |    | **Experience**                                                             |
+<!-- |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
 |2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
 |----|----|-------------------------------------------------------------------------------|
@@ -27,4 +27,4 @@ comments: false
 |-----|----|----------------------------------------------------------------------------------|
 |2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
 |-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |
+|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               | -->
