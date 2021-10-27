@@ -139,6 +139,9 @@ author:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
       url: "http://calendly.com/pourrang_atashi"
+    - label: "Telegram"
+      icon:
+      url: "http://telegram.me/elham_gholamim"
 
 # Site Footer
 footer:
