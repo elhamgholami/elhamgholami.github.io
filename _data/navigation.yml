@@ -12,8 +12,8 @@ main:
     url: /links/
   - title: "Interests"
     url: /interests/  
-  # - title: "Gallery"
-  #   url: /gallery/
+  - title: "Gallery"
+    url: /gallery/
   - title: "Blog"
     url: /blog/
   # - title: "About"
