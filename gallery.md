@@ -17,3 +17,4 @@ gallery:
     title: "Image 2 title caption"
 ---
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
