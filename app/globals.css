@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global tweaks */
+html, body { min-height: 100%; }
+:root { color-scheme: light dark; }
